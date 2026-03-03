@@ -1,6 +1,8 @@
 #include<iostream>
 int main(){
-    std::cout<<"hello world BBB";
+
+    std::cout<<"hello world CCC";
+
     std::cout<<"second";
     std::cout<<"third";
 
